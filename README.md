@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyam-vaddi
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Python and the math required for ML
+- 🌱 I’m currently learning math
 - 💞️ I’m looking to collaborate on Anything!
 - 📫 How to reach me troutdmiral@gmail.com
 
